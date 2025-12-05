@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.55.0",
+    "express": "^5.2.1"
+  }
+}
